@@ -11,7 +11,7 @@ Previously at **Apple**, **Atlassian**, and **New Relic**.
 - [garmin-cli](https://github.com/vicentereig/garmin-cli) - pull your Garmin Connect data from the terminal
 - [plausible-cli](https://github.com/vicentereig/plausible-cli) - Plausible Analytics for AI agents and humans
 - [lf-cli](https://github.com/vicentereig/lf-cli) - query Langfuse traces and metrics from the terminal
-- [exa-ruby](https://github.com/vicentereig/exa-ruby) - typed Ruby client for Exa.ai search API
+- [exa-ruby](https://github.com/vicentereig/exa-ruby) - typed Ruby client and CLI for Exa.ai search API
 
 ## Find me
 
