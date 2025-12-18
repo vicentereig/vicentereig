@@ -1,4 +1,4 @@
-# Vicente Reig
+# Vicente Reig Rincón de Arellano
 
 Fractional product engineer. I help startups build and ship.
 
