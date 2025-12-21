@@ -1,11 +1,12 @@
-# Vicente Reig Rincón de Arellano
+## Vicente Reig Rincón de Arellano
 
-Fractional product engineer. I help startups build and ship.
+Fractional product engineer helping startups from bootstrap to Series B. I build products and teams who build products—architecting systems, productizing AI/ML experiments, and leading through high-growth phases.
 
 Previously at **Apple**, **Atlassian**, and **New Relic**.
 
 ## Projects
 
+- [sorbet-baml](https://github.com/vicentereig/sorbet-baml) - Sorbet type definitions for BAML
 - [dspy.rb](https://github.com/vicentereig/dspy.rb) - program LLMs instead of prompting them
 - [whatsapp-cli](https://github.com/vicentereig/whatsapp-cli) - WhatsApp from your terminal, JSON interface for automation
 - [garmin-cli](https://github.com/vicentereig/garmin-cli) - pull your Garmin Connect data from the terminal
