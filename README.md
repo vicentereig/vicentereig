@@ -12,6 +12,7 @@ I maintain [DSPy.rb](https://github.com/vicentereig/dspy.rb)—I got tired of pr
 
 I also keep building CLIs. Can't seem to stop. There's something satisfying about giving people direct access to their own data—no dashboards, no waiting, just a terminal and a question. Most of these started as tools I needed myself.
 
+- [quaid](https://github.com/vicentereig/quaid) - get your chats back, export ChatGPT and Claude conversations locally
 - [plausible-cli](https://github.com/vicentereig/plausible-cli) - Plausible Analytics for AI agents and humans
 - [garmin-cli](https://github.com/vicentereig/garmin-cli) - pull your Garmin Connect data from the terminal
 - [whatsapp-cli](https://github.com/vicentereig/whatsapp-cli) - WhatsApp from your terminal, JSON interface for automation
