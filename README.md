@@ -10,6 +10,8 @@ Previously at **Apple**, **Atlassian**, and **New Relic**.
 
 I maintain [DSPy.rb](https://github.com/vicentereig/dspy.rb)—I got tired of prompting LLMs and wanted to program them instead. Turns out other people felt the same way.
 
+I'm also working on [A2UI Rails](https://github.com/vicentereig/a2ui-rails)—a port of Google's A2UI for Rails using DSPy.rb and Turbo Streams. LLMs generate typed UI descriptions, not code; the client renders trusted ViewComponents.
+
 I also keep building CLIs. Can't seem to stop. There's something satisfying about giving people direct access to their own data—no dashboards, no waiting, just a terminal and a question. Most of these started as tools I needed myself.
 
 - [quaid](https://github.com/vicentereig/quaid) - get your chats back, export ChatGPT and Claude conversations locally
