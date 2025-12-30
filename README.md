@@ -12,7 +12,7 @@ I maintain [DSPy.rb](https://github.com/vicentereig/dspy.rb)—I got tired of pr
 
 I'm also working on [A2UI Rails](https://github.com/vicentereig/a2ui-rails)—a port of Google's A2UI for Rails using DSPy.rb and Turbo Streams. LLMs generate typed UI descriptions, not code; the client renders trusted ViewComponents.
 
-I also keep building CLIs. Can't seem to stop. There's something satisfying about giving people direct access to their own data—no dashboards, no waiting, just a terminal and a question. Most of these started as tools I needed myself.
+I keep building CLIs. Can't seem to stop. There's something satisfying about giving people direct access to their own data—no dashboards, no waiting, just a terminal and a question. Most of these started as tools I needed myself.
 
 - [quaid](https://github.com/vicentereig/quaid) - get your chats back, export ChatGPT and Claude conversations locally
 - [plausible-cli](https://github.com/vicentereig/plausible-cli) - Plausible Analytics for AI agents and humans
@@ -22,6 +22,7 @@ I also keep building CLIs. Can't seem to stop. There's something satisfying abou
 - [exa-ruby](https://github.com/vicentereig/exa-ruby) - typed Ruby client and CLI for Exa.ai search API
 - [sorbet-baml](https://github.com/vicentereig/sorbet-baml) - Sorbet type definitions for BAML
 - [sorbet-toon](https://github.com/vicentereig/dspy.rb/blob/main/lib/sorbet/toon/README.md) - typed Markdown tables for LLMs, structs survive the round-trip
+- [dspy-rb-skill](https://github.com/vicentereig/dspy-rb-skill) - Claude Code skill for DSPy.rb development
 
 ## Find me
 
